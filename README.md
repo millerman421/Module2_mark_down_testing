@@ -13,7 +13,7 @@ print(text)
 
 ### FinTech Repository---
 
-![Three circular icons that represent a phone, the python logo, and money.](images/fintech.png)
+![Three circular icons that represent a phone, the python logo, and money.](https://www.goodfreephotos.com/albums/animals/reptiles-and-amphibians/albino-burmese-python-slithering.jpg)
 
 
 **Welcome to my repository of FinTech projects. Please explore the codebase!**
